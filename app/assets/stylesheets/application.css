@@ -14,10 +14,13 @@
  *= require_self
  */
 header {
-	margin-top: 0;
+	top: 0;
+	left: 0;
 	height: 4em;
 	background-color: #8FFFFF;
 	width: 100%;
+	position: fixed;
+
 }
 
 /*footer {
